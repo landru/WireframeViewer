@@ -1,8 +1,11 @@
 Hello, my name is Andrew MacGinitie. This is my first github repository.
 
-This WireframeViewer app started as sample code submitted for a potential contract, but it's actually at least the third
-time I've written a similar application. The first time, I used Pascal; another version, written in Python, uses Pygame;
+This WireframeViewer app started as sample code submitted for a potential contract, 
+but it's actually at least the third time I've written a similar application. 
+
+The first time, I used Pascal; another version, written in Python, uses Pygame;
 and this C# version is a Winforms application.
 
 2011-09-28
-only displaying a pyramid, no file load/save capability; also, not using matrix multiplication for rotation
+- only displaying a pyramid, no file load/save capability; 
+- not using matrix multiplication for rotation
